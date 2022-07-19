@@ -169,7 +169,7 @@ And menu it is!
 ## Exit
 Exits the program.
 
-## Contributing
+# Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -183,7 +183,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-## Contact
+# Contact
 
 Izaan Zubair - [Email](mailto:izkidy@yahoo.com)
 

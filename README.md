@@ -1,3 +1,9 @@
+## Table of Contents
+1. [Habit Tracker](#Habit-Tracker)
+2. [Installation](#Installation)
+3. [Usage and Main Functionalities](#Usage-and-Main-Functionalities)
+4. [Contributing](#Contributing)
+
 # Habit Tracker
 
 Having good habits leads to a healthy and successful lifestyle. However, developing and maintaining good habits is indeed a challenge hence, a good habit tracker can serve as an assistant for maintaining, keeping track of, and principally viewing your progress.
@@ -135,3 +141,13 @@ And menu it is!
 
 ## Exit
 Exits the program.
+
+## Contact
+
+Izaan Zubair - [@twitter_handle](https://twitter.com/be_izzi) - izkidy@yahoo.com
+
+Project Link: [https://github.com/izaanz/habit_tracker](https://github.com/izaanz/habit_tracker)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+

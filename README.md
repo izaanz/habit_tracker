@@ -83,5 +83,6 @@ Would you like to Add, Remove Habit or Category? (Use arrow keys)
    Back to Main Menu
 
 ```
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/48772669/179855013-75fcbbc9-f757-42bf-85cc-4fac0dfec0f0.gif)
+
+https://user-images.githubusercontent.com/48772669/179855439-e20830dc-1c75-41cf-aa57-a2c7b0c12a7a.mp4
 

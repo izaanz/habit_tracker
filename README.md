@@ -33,7 +33,7 @@ Additionally, the user can view:
 
 ### Installing
 You can download the latest version of Python from [this link.](https://www.python.org/downloads/) <br>
-[Questionary](https://www.python.org/downloads/) - Questionary is a Python library for building pretty command line interfaces. 
+<br>[Questionary](https://www.python.org/downloads/) - Questionary is a Python library for building pretty command line interfaces. 
 <br>Install by running the below command:<br>
 ```
 pip install questionary

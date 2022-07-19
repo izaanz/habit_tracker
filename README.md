@@ -35,7 +35,7 @@
 
 Having good habits leads to a healthy and successful lifestyle. However, developing and maintaining good habits is indeed a challenge hence, a good habit tracker can serve as an assistant for maintaining, keeping track of, and principally viewing your progress.
 
-This Habit Tracker will take all your data and progress headache away giving you more time to work on your habits. The program is a part of *IU University's* *DLBDSOOFPP01* course and uses Python 3.8 as the backend of the program.
+This Habit Tracker will take all your data and progress headache away, giving you more time to work on your habits. The program is a part of *IU University's* *DLBDSOOFPP01* course and uses Python 3.8 as the backend of the program.
 
 
 ## Habit Tracker's Core Functionality

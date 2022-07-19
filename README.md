@@ -101,3 +101,20 @@ User will have to select the habit they'd like to change the periodicity of and 
 User can select this option mark their habit as completed, if they have a completed the habit within the specified period.
 
 https://user-images.githubusercontent.com/48772669/179856460-19a87cb4-4750-413c-89fa-16bd2b85be7d.mp4
+
+## Show Habits (All or Sort by Periodicity)
+
+#### 1. View All Habits
+Lists all the created habits along with their information like *Name, Periodicity, Category and Date/Time*.
+
+https://user-images.githubusercontent.com/48772669/179857285-921aea0b-e517-4e7b-a58a-0d83e9cefbe6.mp4
+
+#### 2. View Daily Habits
+Lists all the habits in the daily period.
+#### 3. View Weekly Habits
+Lists all the habits in the weekly period.
+#### 4. View Monthly Habits
+Lists all the habits in the monthly period.
+#### 5. Back to Main Menu
+Obvious function.
+

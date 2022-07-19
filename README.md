@@ -1,6 +1,31 @@
-## Table of Contents
-1. [Habit Tracker](#Habit-Tracker)
- 1.2. [Habit Tracker's Core Functionality](##habit-trackers-core-functionality)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Habit-Tracker">Habit Tracker</a>
+      <ul>
+        <li><a href="#habit-trackers-core-functionality">Habit Tracker's Core Functionality</a></li>
+        <li><a href="#progress-and-streak-tracker">Progress and Streak Tracker</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#dependencies">Dependencies</a></li>
+        <li><a href="#installing">Installing</a></li>
+       <li><a href="#packages-for-running-tests">Packages for running tests</a></li>
+       <li><a href="#how-to-run-the-program">How To Run the Program</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 # Habit Tracker
 
@@ -35,7 +60,7 @@ Additionally, the user can view:
 * Python 3.8 +
 * Questionary 1.10.0 +
 
-### Installing
+## Installing
 You can download the latest version of Python from [this link.](https://www.python.org/downloads/) <br>
 <br>[Questionary](https://www.python.org/downloads/) - Questionary is a Python library for building pretty command line interfaces. 
 <br>Install by running the below command:<br>

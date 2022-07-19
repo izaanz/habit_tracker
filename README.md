@@ -1,6 +1,5 @@
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+# Table of Contents
 - [Habit Tracker](#habit-tracker)
   * [Habit Tracker's Core Functionality](#habit-tracker-s-core-functionality)
     + [Progress and Streak Tracker](#progress-and-streak-tracker)
@@ -30,10 +29,6 @@
       - [4. Back to Main Menu](#4-back-to-main-menu-1)
   * [Exit](#exit)
   * [Contact](#contact)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-</details>
 
 # Habit Tracker
 

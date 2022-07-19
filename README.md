@@ -1,8 +1,6 @@
 ## Table of Contents
 1. [Habit Tracker](#Habit-Tracker)
-2. [Installation](#Installation)
-3. [Usage and Main Functionalities](#Usage-and-Main-Functionalities)
-4. [Contributing](#Contributing)
+ 1.2. [Habit Tracker's Core Functionality](##habit-trackers-core-functionality)
 
 # Habit Tracker
 

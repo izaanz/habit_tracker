@@ -118,3 +118,20 @@ Lists all the habits in the monthly period.
 #### 5. Back to Main Menu
 Obvious function.
 
+
+
+## Analytics
+#### 1. View All Habit's Streaks
+Lists all the habits and their streaks.
+
+https://user-images.githubusercontent.com/48772669/179857969-61c3de26-bb0f-4624-a075-7f407d971547.mp4
+
+#### 2. View Longest Streak of Specific Habit
+Lists the longest streak ever achieved by a specific habit.
+#### 3. View Streak Log of Specific Habit
+Shows the streak history of the specific habit.
+#### 4. Back to Main Menu
+And menu it is!
+
+## Exit
+Exits the program.

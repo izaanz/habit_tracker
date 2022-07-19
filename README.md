@@ -67,3 +67,21 @@ What do you want to do? (Use arrow keys)
 
 
 
+# Usage
+
+## 1. Adding a habit
+Your first action should start by creating an habit and you can do so by launching the program and selecting:
+```
+ Add/Remove Habit OR Category
+```
+It will further expose you to a sub-menu, where you'll have to choose *Add habit* and enter the required information:
+```
+Would you like to Add, Remove Habit or Category? (Use arrow keys)
+ » Add Habit
+   Remove Habit
+   Delete Category
+   Back to Main Menu
+
+```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48772669/179855013-75fcbbc9-f757-42bf-85cc-4fac0dfec0f0.gif)
+

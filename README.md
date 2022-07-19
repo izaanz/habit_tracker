@@ -1,30 +1,38 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Habit-Tracker">Habit Tracker</a>
-      <ul>
-        <li><a href="#habit-trackers-core-functionality">Habit Tracker's Core Functionality</a></li>
-        <li><a href="#progress-and-streak-tracker">Progress and Streak Tracker</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#installing">Installing</a></li>
-       <li><a href="#packages-for-running-tests">Packages for running tests</a></li>
-       <li><a href="#how-to-run-the-program">How To Run the Program</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+- [Habit Tracker](#habit-tracker)
+  * [Habit Tracker's Core Functionality](#habit-tracker-s-core-functionality)
+    + [Progress and Streak Tracker](#progress-and-streak-tracker)
+- [Getting Started](#getting-started)
+  * [Dependencies](#dependencies)
+  * [Installing](#installing)
+    + [Packages for running tests](#packages-for-running-tests)
+  * [How To Run the Program](#how-to-run-the-program)
+- [Usage](#usage)
+  * [Add/Remove Habit OR Category](#add-remove-habit-or-category)
+      - [1. Adding a habit](#1-adding-a-habit)
+      - [2. Remove Habit](#2-remove-habit)
+      - [3. Delete Category](#3-delete-category)
+      - [4. Back to Main Menu](#4-back-to-main-menu)
+  * [Modify Habit's Periodicity](#modify-habit-s-periodicity)
+  * [Mark Habit as Completed](#mark-habit-as-completed)
+  * [Show Habits (All or Sort by Periodicity)](#show-habits--all-or-sort-by-periodicity-)
+      - [1. View All Habits](#1-view-all-habits)
+      - [2. View Daily Habits](#2-view-daily-habits)
+      - [3. View Weekly Habits](#3-view-weekly-habits)
+      - [4. View Monthly Habits](#4-view-monthly-habits)
+      - [5. Back to Main Menu](#5-back-to-main-menu)
+  * [Analytics](#analytics)
+      - [1. View All Habit's Streaks](#1-view-all-habit-s-streaks)
+      - [2. View Longest Streak of Specific Habit](#2-view-longest-streak-of-specific-habit)
+      - [3. View Streak Log of Specific Habit](#3-view-streak-log-of-specific-habit)
+      - [4. Back to Main Menu](#4-back-to-main-menu-1)
+  * [Exit](#exit)
+  * [Contact](#contact)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 </details>
 
 # Habit Tracker

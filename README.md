@@ -38,3 +38,32 @@ You can download the latest version of Python from [this link.](https://www.pyth
 ```
 pip install questionary
 ```
+
+### Packages for running tests
+Name the packages and instruction here - TOTOTO
+
+## How To Run the Program
+After installing the dependencies, download the files from this repository (if not downloaded already) and store them in a separate folder. Open your command/terminal window and [cd](https://www.alphr.com/change-directory-in-cmd/) to your downloaded folder. After that, type the following command to execute the program:
+```
+python main.py
+```
+For Python 3.10+
+```
+python3 main.py
+```
+Doing so will launch the CLI and then you'll be able to see and choose from the following options in your Habit Tracker:
+
+```
+*** Welcome to the Habit Tracker ***
+
+What do you want to do? (Use arrow keys)
+ » Add/Remove Habit OR Category
+   Modify Habit's Periodicity
+   Mark Habit as Completed
+   Show Habits (All or Sort by Periodicity)
+   Analytics
+   Exit
+```
+
+
+

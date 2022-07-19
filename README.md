@@ -68,13 +68,13 @@ What do you want to do? (Use arrow keys)
 
 
 # Usage
-
-## 1. Adding a habit
+## Add/Remove Habit OR Category
+#### 1. Adding a habit
 Your first action should start by creating an habit and you can do so by launching the program and selecting:
 ```
  Add/Remove Habit OR Category
 ```
-It will further expose you to a sub-menu, where you'll have to choose *Add habit* and enter the required information:
+It will further expose the user to a sub-menu, where you'll have to choose *Add habit* and enter the required information:
 ```
 Would you like to Add, Remove Habit or Category? (Use arrow keys)
  » Add Habit
@@ -83,6 +83,21 @@ Would you like to Add, Remove Habit or Category? (Use arrow keys)
    Back to Main Menu
 
 ```
-
 https://user-images.githubusercontent.com/48772669/179855439-e20830dc-1c75-41cf-aa57-a2c7b0c12a7a.mp4
 
+#### 2. Remove Habit
+This option will show you a list of habits that you have created, user will have to simply choose the habit you want to delete and press enter.
+
+#### 3. Delete Category
+Similar to removing habit; a list of created categories will be shown for the user to select.
+
+#### 4. Back to Main Menu
+Takes the user back to main menu.
+
+## Modify Habit's Periodicity
+User will have to select the habit they'd like to change the periodicity of and then a new prompt will ask the user to select the new periodicity for the habit.
+
+## Mark Habit as Completed
+User can select this option mark their habit as completed, if they have a completed the habit within the specified period.
+
+https://user-images.githubusercontent.com/48772669/179856460-19a87cb4-4750-413c-89fa-16bd2b85be7d.mp4

@@ -28,8 +28,8 @@
       - [3. View Streak Log of Specific Habit](#3-view-streak-log-of-specific-habit)
       - [4. Back to Main Menu](#4-back-to-main-menu-1)
   * [Exit](#exit)
-  * [Contributing](#contributing)
-  * [Contact](#contact)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 # Habit Tracker
 

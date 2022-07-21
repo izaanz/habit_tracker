@@ -129,7 +129,7 @@ Would you like to Add, Remove Habit or Category? (Use arrow keys)
 https://user-images.githubusercontent.com/48772669/179855439-e20830dc-1c75-41cf-aa57-a2c7b0c12a7a.mp4
 
 #### 2. Remove Habit
-This option will show you a list of habits that you have created, user will have to simply choose the habit you want to delete and press enter.
+This option will show you a list of habits that you have created, you'll have to simply choose the habit you want to delete and press enter.
 
 #### 3. Delete Category
 Similar to removing habit; a list of created categories will be shown for the user to select.

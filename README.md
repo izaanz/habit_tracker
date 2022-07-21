@@ -73,7 +73,16 @@ pip install questionary
 ```
 
 ### Packages for running tests
-Name the packages and instruction here - TOTOTO
+To run the tests, you will need the following packages installed:
+Pytest - For testing functions:<br>
+```
+pip install -U pytest
+```
+<br>
+Freezegun - For freezing time:<br>
+```
+pip install freezegun
+```
 
 ## How To Run the Program
 After installing the dependencies, download the files from this repository (if not downloaded already) and store them in a separate folder. Open your command/terminal window and [cd](https://www.alphr.com/change-directory-in-cmd/) to your downloaded folder. After that, type the following command to execute the program:
@@ -98,7 +107,8 @@ What do you want to do? (Use arrow keys)
    Exit
 ```
 
-
+## Running tests
+To run the test; navigate to the test folder (included with the repository) through command/terminal and using cd [cd](https://www.alphr.com/change-directory-in-cmd/) and then type pytest. 
 
 # Usage
 ## Add/Remove Habit OR Category

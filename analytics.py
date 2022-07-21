@@ -112,7 +112,7 @@ def show_habits_data(periodicity=None):
         print("-------------------------------------------------------\n")
 
     else:
-        print("\nNo habit found for the specified periodicity!\n")
+        print("\nNo habit found in the specified periodicity!\n")
 
 
 # Table to show habit's streak along with other columns

@@ -59,7 +59,7 @@ Additionally, the user can view:
 
 
 # Getting Started
-**Important**: Make sure that Python 3.7+ is installed on your OS. You can download the latest version of Python from [this link.](https://www.python.org/downloads/)
+**Important**: Make sure that Python 3.8 + is installed on your OS. You can download the latest version of Python from [this link.](https://www.python.org/downloads/)
 
 ## Dependencies
 * Python 3.8 +

@@ -141,7 +141,7 @@ Takes the user back to main menu.
 User will have to select the habit they'd like to change the periodicity of and then a new prompt will ask the user to select the new periodicity for the habit.
 
 ## Mark Habit as Completed
-User can select this option mark their habit as completed, if they have a completed the habit within the specified period.
+The user can use this option to mark their habit as completed. Note: A habit can be marked as completed only once during the defined period. 
 
 https://user-images.githubusercontent.com/48772669/179856460-19a87cb4-4750-413c-89fa-16bd2b85be7d.mp4
 

@@ -74,7 +74,7 @@ pip install questionary
 
 ### Packages for running tests
 To run the tests, you will need the following packages installed:
-Pytest - For testing functions:<br>
+<br>Pytest - For testing functions:<br>
 ```
 pip install -U pytest
 ```

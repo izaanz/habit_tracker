@@ -78,8 +78,7 @@ Pytest - For testing functions:<br>
 ```
 pip install -U pytest
 ```
-<br>
-Freezegun - For freezing time:<br>
+<br>Freezegun - For freezing time: <br>
 ```
 pip install freezegun
 ```
@@ -108,7 +107,7 @@ What do you want to do? (Use arrow keys)
 ```
 
 ## Running tests
-To run the test; navigate to the test folder (included with the repository) through command/terminal and using cd [cd](https://www.alphr.com/change-directory-in-cmd/) and then type pytest. 
+To run the test; navigate to the test folder (included with the repository) through command/terminal and using cd [cd](https://www.alphr.com/change-directory-in-cmd/) and then type ```pytest```. 
 
 # Usage
 ## Add/Remove Habit OR Category

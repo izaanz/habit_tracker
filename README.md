@@ -8,6 +8,7 @@
   * [Installing](#installing)
     + [Packages for running tests](#packages-for-running-tests)
   * [How To Run the Program](#how-to-run-the-program)
+  * [Running Tests[(#running-tests)
 - [Usage](#usage)
   * [Add/Remove Habit OR Category](#add-remove-habit-or-category)
       - [1. Adding a habit](#1-adding-a-habit)

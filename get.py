@@ -60,7 +60,7 @@ def defined_categories():
     arr = fetch_categories(db)
     if len(arr) > 0:
         return qt.select("Please Select a Category",
-                         choices=arr).ask().lower()
+                         choices=sorted(arr)).ask().lower()
     else:
         raise ValueError("No categories found in Database; Please define a category using 'Add habit' function")
 
@@ -95,7 +95,7 @@ def habits_from_db():
     list_of_habits = fetch_habits_as_choices(db)
     if list_of_habits is not None:
         return qt.select("Please Select a Habit",
-                         choices=list_of_habits).ask().lower()
+                         choices=sorted(list_of_habits)).ask().lower()
     else:
         raise ValueError("No habit in database; Add a habit first to use this function")
 

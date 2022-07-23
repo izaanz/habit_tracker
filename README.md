@@ -142,8 +142,8 @@ User will have to select the habit they'd like to change the periodicity of and 
 
 ## Mark Habit as Completed
 The user can use this option to mark their habit as completed. Note: A habit can be marked as completed only once during the defined period. <br>
-Note: If the user failed to complete their habti within the specified periodicity; then marking the habit as completed will the reset the streak to 1. <br>
-Why 1 though? Because the user invoked the mark as completed function to complete their habit thus the function takes this into account and resets the habit to 1 to register the very current streak.
+<br>Note: If the user failed to complete their habti within the specified periodicity; then marking the habit as completed will the reset the streak to 1. <br>
+<br>Why 1 though? Because the user invoked the mark as completed function to complete their habit thus the function takes this into account and resets the habit to 1 to register the very current streak.
 
 https://user-images.githubusercontent.com/48772669/179856460-19a87cb4-4750-413c-89fa-16bd2b85be7d.mp4
 

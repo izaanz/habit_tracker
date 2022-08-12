@@ -114,6 +114,9 @@ What do you want to do? (Use arrow keys)
 To run the test; navigate to the test folder (included with the repository) through command/terminal by using [cd](https://www.alphr.com/change-directory-in-cmd/) and then type ```pytest```. 
 
 # Usage
+
+**Important**: You can chosse to keep or remove the **main.db** file as it contains the following pre-defined habits: Coding, Workout, Grocery, Piano, and Hiking. <br>
+
 ## Add/Remove Habit OR Category
 #### 1. Adding a habit
 Your first action should start by creating an habit and you can do so by launching the program and selecting:

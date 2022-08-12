@@ -6,7 +6,8 @@ class Habit:
     """
         Habit class for interacting with different habits
     """
-    def __init__(self, name: str = None, periodicity: str = None, category: str = None):
+
+    def __init__(self, name: str = None, periodicity: str = None, category: str = None, database="main.db"):
         """
         Parameters
         ----------
@@ -16,11 +17,14 @@ class Habit:
             The period of the habit (e.g, daily, weekly or monthly) (default is None)
         category : str, optional
             The category of the habit (default is None)
+        database: str, optional
+            For connecting to a different database for running tests (default is main.db)
                 """
+
         self.name = name
         self.periodicity = periodicity
         self.category = category
-        self.db = db.connect_database()
+        self.db = db.connect_database(database)
         self.streak = 0
         self.current_time = datetime.now().strftime("%m/%d/%Y %H:%M")
 
@@ -144,7 +148,7 @@ class Habit:
         else:
             today = self.current_time
             delt = datetime.strptime(today[:10], "%m/%d/%Y") - datetime.strptime(last_streak[:10], "%m/%d/%Y")
-            week = 3 if delt.days > 14 else (2 if delt.days > 7 else 1)
+            week = 3 if (delt.days + 1) > 14 else (2 if (delt.days + 1) > 7 else 1)
             return week
 
     def monthly_habit_streak_verification(self):

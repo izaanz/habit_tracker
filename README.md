@@ -66,7 +66,10 @@ Additionally, the user can view:
 * Questionary 1.10.0 +
 
 ## Installing
-You can download the latest version of Python from [this link.](https://www.python.org/downloads/) <br>
+You can download the latest version of Python from [this link.](https://www.python.org/downloads/) - Make sure to check "ADD to path" in the Python installer. <br>
+
+<br> After installing Python, you can proceed and install the following libraries. <br>
+
 <br>[Questionary](https://www.python.org/downloads/) - Questionary is a Python library for building pretty command line interfaces. 
 <br>Install by running the below command:<br>
 ```

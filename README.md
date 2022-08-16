@@ -115,7 +115,7 @@ To run the test; navigate to the test folder (included with the repository) thro
 
 # Usage
 
-**Important**: You can chosse to keep or remove the **main.db** file as it contains the following pre-defined habits: Coding, Workout, Grocery, Piano, and Hiking. <br>
+**Important**: You can choose to keep or remove the **main.db** file as it contains the following pre-defined habits: Coding, Workout, Grocery, Piano, and Hiking. <br>
 
 ## Add/Remove Habit OR Category
 #### 1. Adding a habit
